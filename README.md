@@ -114,12 +114,12 @@ Please submit at least:
 2. `requirements.txt`.
 3. Run instructions (`README` section or separate doc).
 4. Generated Excel output example.
-5. AI usage evidence:
+5. AI usage evidence (optional in the repo but required in the interview):
    - `ai/prompts.md` (or equivalent)
    - `ai/conversations/` (exports/logs/transcripts)
 6. Benchmark deliverables:
    - `benchmark/results.*` with comparison table/metrics
-   - `benchmark/analysis.md` with written conclusions and recommendation
+   - `benchmark/analysis.pdf` with written conclusions and recommendation
 7. Local OCR planning deliverable:
    - `docs/local-ollama-ocr-plan.pdf` describing architecture, components, model choice, preprocessing steps, extraction strategy, validation strategy, risks, and rollout plan
 
