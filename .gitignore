@@ -1,3 +1,36 @@
-opencode.json
-.DS_Store
+# Environment
 .env
+.env.local
+.env.*.local
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OpenCode
+opencode.json
+
+# Output artifacts (uncomment if you don't want to track generated files)
+# output/*.xlsx
+# benchmark/*.pdf

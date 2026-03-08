@@ -1,0 +1,1 @@
+"""Receipt extractor source package."""

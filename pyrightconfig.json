@@ -1,0 +1,9 @@
+{
+  "venvPath": ".",
+  "venv": "venv",
+  "pythonVersion": "3.10",
+  "pythonPlatform": "Windows",
+  "typeCheckingMode": "standard",
+  "reportMissingImports": "error",
+  "reportMissingModuleSource": "warning"
+}
